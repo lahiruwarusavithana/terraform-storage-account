@@ -17,10 +17,10 @@ If you want to disable the hierarchical namespace of the storage account, you ca
 Creation of an Azure Storage Account with a Service Endpoint
 The process to create the Azure Storage Account with service Endpoint requires several steps in this specific order:
 
-# 1.Resource Group Creation
-# 2.VNET Creation with service endpoints
-# 3.Subnet Creation
-# 4.Creation of a Storage Account by using the virtual network subnet ID
+1. Resource Group Creation
+2. VNET Creation with service endpoints
+3. Subnet Creation
+4. Creation of a Storage Account by using the virtual network subnet ID
 
 # Prerequisites
 Familiar with Azure service provision
